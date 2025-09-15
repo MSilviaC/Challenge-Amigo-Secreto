@@ -34,6 +34,7 @@ Validaciones implementadas
 
 Para que el proyecto funcione presione enter en el siguiente enlace:
 
+https://vercel.com/silvia-cuevas-projects/challenge-amigo-secreto/settings/domains
 
 Desarrolador
 
