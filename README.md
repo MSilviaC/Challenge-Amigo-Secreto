@@ -18,6 +18,12 @@ amigo seleccionado
 
 4- Si quieres volver a jugar presiona la tecla F5
 
+5- Mostramos a continuacion como se ejecuta via web:
+
+https://github.com/user-attachments/assets/8ba41634-8d34-4751-a484-ddd8805012c8
+
+
+
 Validaciones implementadas
 
 *  Los nombres no pueden estar vacios
